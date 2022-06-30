@@ -1,0 +1,10 @@
+.ant-typography {
+  margin-bottom: 8px !important;
+}
+.ant-typography + h4.ant-typography {
+  margin: 0 !important;
+}
+
+.ant-btn-icon-only.ant-btn-lg > * {
+  margin: 0 auto !important;
+}
